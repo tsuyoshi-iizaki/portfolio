@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "tsuyosuketest",
+    "tsuyosuketenissProd": "tsuyosuketeniss",
+    "dev": "tsuyosuketest",
+    "prod": "tsuyosuketeniss"
+  },
+  "targets": {
+    "tsuyosuketeniss": {
+      "hosting": {
+        "main_app": [
+          "tennipoi"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
