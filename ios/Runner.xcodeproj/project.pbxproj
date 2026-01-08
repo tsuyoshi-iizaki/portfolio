@@ -41,7 +41,6 @@
 		8628EF8929A9BB710014645D /* RunnerRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RunnerRelease.entitlements; sourceTree = "<group>"; };
 		8628EF8A29A9BB7B0014645D /* RunnerProfile.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RunnerProfile.entitlements; sourceTree = "<group>"; };
 		863AC47E29A7900D00C91C7F /* RunnerDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RunnerDebug.entitlements; sourceTree = "<group>"; };
-		8660C2142CC4864E00392EDF /* Runner copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Runner copy-Info.plist"; path = "/Users/yusuke-arai/Desktop/TsuyosukeTennis/TsuyosukeTennis/ios/Runner copy-Info.plist"; sourceTree = "<absolute>"; };
 		86D2EE372C7C5B0E00EC7304 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		86EA62C02C54FDCB0024304C /* dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = dev.xcconfig; path = Flutter/dev.xcconfig; sourceTree = SOURCE_ROOT; };
 		86EA62C12C54FE8E0024304C /* prod.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = prod.xcconfig; path = Flutter/prod.xcconfig; sourceTree = SOURCE_ROOT; };
@@ -98,7 +97,6 @@
 				97C146EF1CF9000F007C117D /* Products */,
 				AB7B5E0F41FF482E65EDA1AC /* Pods */,
 				14AA0629E4A9AC1C6D37F390 /* Frameworks */,
-				8660C2142CC4864E00392EDF /* Runner copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
